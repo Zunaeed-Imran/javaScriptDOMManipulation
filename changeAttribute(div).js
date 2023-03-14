@@ -6,4 +6,4 @@ const spanHi = document.querySelector("#hi")
 
 const spanBye = document.querySelector("#bye")
 
-console.log(spanHi.setAttribute("id","change"))
+spanHi.id="change2nd"
